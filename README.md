@@ -9,8 +9,6 @@ Analyzes seasonal and monthly sales patterns, identifying peaks during holiday s
 Explores the influence of economic conditions like temperature, fuel prices, CPI (Consumer Price Index), and unemployment rates on sales.
 # Store-Level Performance: 
 Compares weekly sales across different stores to identify top performers and areas for improvement.
-# Store-Level Performance:
-Compares weekly sales across different stores to identify top performers and areas for improvement.
 
 # Technologies Used
 Data Analysis: SQL, Python (Pandas, NumPy for data manipulation)
