@@ -3,10 +3,14 @@ This project provides an in-depth analysis of Walmart's sales  to uncover action
 
 # KPI Monitoring: 
 Tracks critical metrics such as total sales ($6.74bn), average weekly sales, store performance, total unemployment count (6.435K), and sum of holiday flags.
-# Trend Analysis: Analyzes seasonal and monthly sales patterns, identifying peaks during holiday seasons and slower periods.
-# Impact of External Factors: Explores the influence of economic conditions like temperature, fuel prices, CPI (Consumer Price Index), and unemployment rates on sales.
-Store-Level Performance: Compares weekly sales across different stores to identify top performers and areas for improvement.
-# Store-Level Performance: Compares weekly sales across different stores to identify top performers and areas for improvement.
+# Trend Analysis:
+Analyzes seasonal and monthly sales patterns, identifying peaks during holiday seasons and slower periods.
+# Impact of External Factors:
+Explores the influence of economic conditions like temperature, fuel prices, CPI (Consumer Price Index), and unemployment rates on sales.
+# Store-Level Performance: 
+Compares weekly sales across different stores to identify top performers and areas for improvement.
+# Store-Level Performance:
+Compares weekly sales across different stores to identify top performers and areas for improvement.
 
 # Technologies Used
 Data Analysis: SQL, Python (Pandas, NumPy for data manipulation)
